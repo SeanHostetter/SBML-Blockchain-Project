@@ -7,32 +7,26 @@ A platform for displaying academic material and certificates as NFTs on the Ethe
 
 
 Pros:  
-  -Permantently stored  
-  -Unique  
-  -Verifiable by uploader  
-  -Decentralized verification (and possible encryption)  
+  - Permantently stored  
+  - Unique  
+  - Verifiable by uploader  
+  - Decentralized verification (and possible encryption)  
 Cons:  
-  -Fees per token created (dependent on blockchain used)  
-  -Ownership assignment fees (either to transfer token ownership or to give shared ownership)  
+  - Fees per token created (dependent on blockchain used)  
+  - Ownership assignment fees (either to transfer token ownership or to give shared ownership)  
 
 ## 2. Tokenless Aproach: use IPFS for storage, and host server for encryption and verification
-### execution:
+### execution:  
 
 
 Pros:  
-  -Permanently Stored  
-  -No fees  
+  - Permanently Stored  
+  - No fees  
 Cons:  
-  -Centralized verification and encryption  
+  - Centralized verification and encryption  
   -
 
 ## 3. FT Aproach  
 Pros:  
 Cons:  
   -  
-
-<md-tabs>
-  <md-tab label="Tab #1"></md-tab>
-  <md-tab label="Tab #2"></md-tab>
-  <md-tab label="Tab #3"></md-tab>
-</md-tabs>
