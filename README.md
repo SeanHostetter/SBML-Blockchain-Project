@@ -1,6 +1,5 @@
-# SBML-Blockchain-Project
+# SBML-Blockchain-Project  
 A platform for displaying academic material and certificates as NFTs on the Ethereum blockchain
----  
 
 ## Aproaches
 ### 1. NFT Aproach: Link permanently hosted documents through IPFS to a non-fungible token.
