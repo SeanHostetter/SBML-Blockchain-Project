@@ -6,7 +6,7 @@ A platform for displaying academic material and certificates as NFTs on the Ethe
 ### execution:
 
 
-Pros: 
+Pros:  
   -Permantently stored  
   -Unique  
   -Verifiable by uploader  
