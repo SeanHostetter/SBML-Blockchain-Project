@@ -28,11 +28,4 @@ A platform for displaying academic material and certificates as NFTs on the Ethe
   - No fees  
 #### Cons:  
   - Centralized verification and encryption  
-  -
----
-### 3. FT Aproach  
-#### Pros:  
-#### Cons:  
   -  
-
----
