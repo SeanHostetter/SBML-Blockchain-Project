@@ -1,4 +1,4 @@
-# SBML-Blockchain-Project  
+# SBML-DocChain 
 A platform for displaying academic material and certificates as NFTs on the Ethereum blockchain
 ---
 ## Aproaches
