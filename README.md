@@ -6,12 +6,12 @@ A platform for displaying academic material and certificates as NFTs on the Ethe
 #### execution:
 
 ---  
-##### Pros:  
+#### Pros:  
   - Permantently stored  
   - Unique  
   - Verifiable by uploader  
   - Decentralized verification (and possible encryption)  
-##### Cons:  
+#### Cons:  
   - Fees per token created (dependent on blockchain used)  
   - Ownership assignment fees (either to transfer token ownership or to give shared ownership)  
 
@@ -19,14 +19,14 @@ A platform for displaying academic material and certificates as NFTs on the Ethe
 #### execution:  
 
 
-##### Pros:  
+#### Pros:  
   - Permanently Stored  
   - No fees  
-##### Cons:  
+#### Cons:  
   - Centralized verification and encryption  
   -
 
 ### 3. FT Aproach  
-Pros:  
-Cons:  
+#### Pros:  
+#### Cons:  
   -  
