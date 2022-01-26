@@ -30,3 +30,9 @@ Cons:
 Pros:  
 Cons:  
   -  
+
+<md-tabs>
+  <md-tab label="Tab #1"></md-tab>
+  <md-tab label="Tab #2"></md-tab>
+  <md-tab label="Tab #3"></md-tab>
+</md-tabs>
