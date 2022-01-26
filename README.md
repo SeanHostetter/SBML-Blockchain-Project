@@ -14,7 +14,6 @@ Pros:
 Cons:  
   - Fees per token created (dependent on blockchain used)  
   - Ownership assignment fees (either to transfer token ownership or to give shared ownership)  
----  
 
 ### 2. Tokenless Aproach: use IPFS for storage, and host server for encryption and verification
 #### execution:  
