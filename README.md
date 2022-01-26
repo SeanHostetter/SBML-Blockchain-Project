@@ -4,6 +4,10 @@ A platform for displaying academic material and certificates as NFTs on the Ethe
 ## Aproaches
 ### 1. NFT Aproach: Link permanently hosted documents through IPFS to a non-fungible token.
 #### execution:
+1. Create website which allows user to upload document to IPFS and gets the CID and generates a JSON file(URI) for the document  
+2. Create a smart contract which verifies document author, mints an nft (passes in author wallet and link to URI)  
+3. Website Displays Tokens owned by connected wallet.  
+4. Website allows user to call function which assigns limited co-ownership to recipient (if document is some sort of certificate)
 
 #### Pros:  
   - Permantently stored  
