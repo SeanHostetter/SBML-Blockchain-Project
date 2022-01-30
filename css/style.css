@@ -1,0 +1,91 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding: 0;
+  width: 100%;
+}
+
+#page-container {
+  min-height: 100vh;
+  position: relative;
+  width: 100%;
+}
+
+#navbar {
+  padding-bottom: 7px;
+}
+
+#footer {
+  bottom: 0;
+  height: 200px;
+  position: absolute;
+  width: 100%;
+}
+
+#top-container {
+  height: 1200px;
+  padding: 3% 3% 0;
+}
+
+.lasting-heading {
+  margin: 40px 0;
+}
+
+#middle-container {
+  min-height: 1100px;
+  padding: 7% 5% 5%;
+}
+
+#verification-form {
+  margin-top: 30px;
+}
+
+@media screen and (min-width: 3000px) {
+  #middle-container {
+    padding-bottom: 1200px;
+  }
+}
+
+@media screen and (min-width: 2200px) {
+  #middle-container {
+    height: 1300px;
+    padding-top: 200px;
+  }
+}
+
+@media screen and (max-height: 2200px) and (max-width: 780px) {
+  #top-container {
+    height: 1300px;
+  }
+
+  #middle-container {
+    height: 1200px;
+  }
+}
+
+@media screen and (max-height: 2200px) and (max-width: 600px) {
+  #top-container {
+    padding-bottom: 100px;
+  }
+
+  #middle-container {
+    padding-top: 60px;
+    height: 1350px;
+  }
+}
+
+@media screen and (max-height: 2200px) and (max-width: 510px) {
+  #middle-container {
+    padding-top: 60px;
+    height: 1450px;
+  }
+}
+
+@media screen and (max-height: 2200px) and (max-width: 420px) {
+  #middle-container {
+    padding-top: 60px;
+    height: 1600px;
+  }
+}
